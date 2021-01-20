@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\obj\Debug\AgtFinalÖdevi.vbprojAssemblyReference.cache
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\obj\Debug\AgtFinalÖdevi.Form1.resources
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\obj\Debug\AgtFinalÖdevi.Resources.resources
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\obj\Debug\AgtFinalÖdevi.vbproj.GenerateResource.cache
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\obj\Debug\AgtFinalÖdevi.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\bin\Debug\AgtFinalÖdevi.exe.config
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\bin\Debug\AgtFinalÖdevi.exe
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\bin\Debug\AgtFinalÖdevi.pdb
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\bin\Debug\AgtFinalÖdevi.xml
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\obj\Debug\AgtFinalÖdevi.exe
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\obj\Debug\AgtFinalÖdevi.xml
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\obj\Debug\AgtFinalÖdevi.pdb
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\obj\Debug\AgtFinalÖdevi.Form2.resources
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\obj\Debug\AgtFinalÖdevi.Form3.resources
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\obj\Debug\AgtFinalÖdevi.Form4.resources
+C:\Users\Hp\Desktop\PROJELER\visualbasic\AgtFinalÖdevi\obj\Debug\AgtFinalÖdevi.Form5.resources
